@@ -10,8 +10,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  LT_USERNAME: 'sirajk'
-  LT_ACCESS_KEY: 'oz85RZKxbqX6X8aCQXuQgUDnojP8OwY3wx2SAkEswtgRuxl8n0'
+  LT_USERNAME: 'Your UserName'
+  LT_ACCESS_KEY: 'Your Access Key'
 
 steps:
 - task: NodeTool@0
